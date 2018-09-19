@@ -1,2 +1,0 @@
-# reimuhdy
-machine learning projects
